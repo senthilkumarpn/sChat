@@ -1,0 +1,33 @@
+{
+  "name": "schat",
+  "version": "1.0.0",
+  "description": "A RealTime Chat Applications similar to Whatapp / WeChat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senthilkumarpn/schat.git"
+  },
+  "keywords": [
+    "sChat",
+    "Wechat",
+    "Whatapp",
+    "chat",
+    "app",
+    "RealTime",
+    "Chat",
+    "application"
+  ],
+  "author": "Senthil Kumar P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senthilkumarpn/schat/issues"
+  },
+  "homepage": "https://github.com/senthilkumarpn/schat#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
